@@ -1,0 +1,876 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine hymns, or, A paraphrase upon the Te Deum, &amp;c. and the Song of the three children, or canticle Benedicite omnia opera, &amp;c. as they are in the Book of common prayer by T. Walker ...</title>
+            <author>Walker, Thomas, 1658 or 9-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67268</idno>
+            <idno type="STC">Wing W415</idno>
+            <idno type="STC">ESTC R13384</idno>
+            <idno type="EEBO-CITATION">13319899</idno>
+            <idno type="OCLC">ocm 13319899</idno>
+            <idno type="VID">99033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 442:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine hymns, or, A paraphrase upon the Te Deum, &amp;c. and the Song of the three children, or canticle Benedicite omnia opera, &amp;c. as they are in the Book of common prayer by T. Walker ...</title>
+                  <author>Walker, Thomas, 1658 or 9-1716.</author>
+                  <author>Nicetas, of Remesiana, Saint, d. ca. 414. Te Deum laudamus.</author>
+               </titleStmt>
+               <extent>[12], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Hayes ... for W. Graves ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 26.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99033:1" rendition="simple:additions"/>
+            <pb facs="tcp:99033:1" rendition="simple:additions"/>
+            <p>Divine Hymns, OR A PARAPHRASE UPON The <hi>TEDE<g ref="char:V">Ʋ</g>M,</hi> &amp;c. And the SONG of The Three Children OR CANTICLE <hi>Benedicite omnia opera,</hi> &amp;c. AS They are in the Book OF COMMON PRAYER.</p>
+            <p>By <hi>T. Walker,</hi> B.D. Fellow of <hi>Sidney-Suſſex</hi> College.</p>
+            <q>Omnis creatura non voce, ſed opere laudat dominum, quia ex creaturis conſequenter creator intelligitur, &amp; in ſingulis ope<g ref="char:EOLhyphen"/>ribus atque effectibus Dei magnificentia demonſtratur. <bibl>
+                  <hi>Hie<g ref="char:EOLhyphen"/>ron. Comment.</hi> in <hi>Cantic.</hi> Benedicite omnia opera, <hi>&amp;c.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed by <hi>J. Hayes,</hi> Printer to the Univerſity; for <hi>W. Graves,</hi> Bookſeller there. 1691.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:99033:2"/>
+            <pb facs="tcp:99033:2"/>
+            <head>PREFACE.</head>
+            <p>'TIS much to be lamented that the moſt ancient and excellent Art, or rather gift of Poetry, ſhou'd be ſo much deſpiſed, and neglected on the one hand, and abuſed and corrupted on the other. Indeed the great abuſes to which it has been expos'd, and the diſſervice that men have thereby done to Religion and Vertue, are the only Apology that can be made, for thoſe affronts and reproaches which have been caſt upon this, otherwiſe noble and uſeful way of expreſſing our thoughts; and which can only account for the con<g ref="char:EOLhyphen"/>tempt, under which it labours at preſent, in the eſteem of ſome men. For certainly when good ſenſe and vertuous admonitions are decently expreſs'd, in ſmooth and elegant language, when the periods of our diſcourſe are clos'd, with a pleaſing ſort of Har<g ref="char:EOLhyphen"/>mony, and there is a gratefull cade<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in every ſen<g ref="char:EOLhyphen"/>tence; when manly and becoming ſentiments and repreſentations of things are ſet off with theſe, and all the other advantages of Poetick numbers, and in<g ref="char:EOLhyphen"/>vention; they muſt needs addreſs themſelves more pow'rfully to our minds, and have a greater force upon our affections, either to excite, or quell our Love and Fear, which are the ſprings of moſt other p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſions,
+<pb facs="tcp:99033:3"/>than when our conceptions are propounded naked, and deſtitute of this advantageous clothing. To which purpoſe the admired <hi>M<hi rend="sup">r</hi> Waller</hi> writes excellently to the <hi>Earl</hi> of <hi>Roſcommon:</hi>
+            </p>
+            <q>
+               <l>Well-ſounding Verſes are the Charm we uſe,</l>
+               <l>Heroick thoughts, and vertue to infuſe;</l>
+               <l>Things of deep ſenſe we may in Proſe unfold,</l>
+               <l>But they move more, in lofty numbers told;</l>
+               <l>By the loud Trumpet, which our Courage aids,</l>
+               <l>We learn, that ſound, as well as ſenſe, perſuades.</l>
+            </q>
+            <p>And without queſtion, it was by delivering good pre<g ref="char:EOLhyphen"/>cepts of morality, in numerous and tunefull Verſes, and not with the ſound of his Hary alone, that <hi>Or<g ref="char:EOLhyphen"/>pheus</hi> wrought ſuch wonders amongſt his country men, as to reduce them from a ſavage barbarity, to a civil and vertuous converſation; which is underſtood by his drawing Trees after him, by the charming Muſick of his Lyre. It ſeems to appear from this inſtance, as well as from ſeveral others, which might be produc'd, that the Light of Nature taught this manner of writing, as the moſt commodious and eaſie way of infuſing her precepts into our tender minds; which are more apt to imbibe thoſe rules which are gently inſtill'd into them, by the ſoft and inſinuating diſtillations of Poetical numbers, than when they are dictated with a Magiſterial authority, and enjoyn'd with ſevere threats, in harſh and ruggid language: For
+<pb facs="tcp:99033:3"/>men have naturally a good opinion of themſelves, and are jealous of anothers ufurping authority over them, and therefore do not like ſo well to be forc'd into their duty, as to be won with mild and alluring methods. Seeing then this way of writing is apt to have ſuch an influence upon our minds, as to raiſe in them paſ<g ref="char:EOLhyphen"/>ſions, and affections correſpondent to the matter it treats of, and the inſtructions it inclucates, we ought to be the more concern'd to regulate the abuſe of it, and endeavour to imploy it about ſuch ſubjects, which may render it uſeful and beneficial to our ſelves, as well as to the publick; inſtead of being dangerous and pernicious unto them both. Now there is nothing which is ſo likely to effect this deſign, as well as to retrieve its credit, as a ſerious application of it to that end and purpoſe, for which it was deſign'd by <hi>Nature</hi> and its Author <hi>God</hi> himſelf: for to ſet forth his praiſe, to record his Judgements and his mercies, was the firſt matter about which Poetry was employ'd, as we find from the ſongs of <hi>Moſes,</hi> the moſt ancient Poetick Hymns that it may be ever were; but for certain none that are now extant can compare with them for Antiquity: for that divine Anthem which <hi>Moſes,</hi> and the children of <hi>Iſrael</hi> Sang, after they had paſs'd the red Sea, in which the <hi>Egyptians</hi> were drown'd, was made and rehears'd above Five Hundred years before <hi>Homer</hi> was born, as appears from com<g ref="char:EOLhyphen"/>putation of the Time in the exacteſt Chronologers. Thus did Poetry ſerve its apprentiſhip in the Temple, and was very early dedicated to the offices of religious worſhip; and for a long time kept it ſelf free from
+<pb facs="tcp:99033:4"/>the vile Arts of flattery, and the viles offices of being inſtrumental in exciting men to Lewdeſs and irreli<g ref="char:EOLhyphen"/>gion. But as the Devil loves to dance upon holy ground, and to play his magick tricks in imitation of divine miracles, ſo he envying the ſervice that was done to religion, by the help of divine Hymns, attempted to deflowr the chaſt virgin, and to divert his ſacred, and unpolluted ſtream into prophare and muddie chan<g ref="char:EOLhyphen"/>nels. The Learned need not be inſtructed how he was wont, of old, to dreſs his oracular Reſponſes in a Poetical garb; as well to make them look more auguſt and ſolemn, as by the Harmony of their Num<g ref="char:EOLhyphen"/>bers, to charm his credulois Devoto's, into a belief of their Divinity and prophetick inſpiration: And ſince thoſe Oracles have been ſilenc'd, by the Son of <hi>God,</hi> as they themſelves were forc'd to confeſs, he has been induſtrious to convey his poyſon into the minds of men, through other pipes, in a no leſs pernicious, tho in a leſs pompous manner; by exciting men to the compoſition of Atheiſtical Poems, lewd Songs, and ſcurrilous Rhimes;<note place="margin">Tribe of Le<g ref="char:EOLhyphen"/>vi, <hi>&amp;c.</hi>
+               </note> in which inglorious ſort of Wit ſome of our modern Poets have only exceeded their forefathers; and in which they have vented ſo much ſpite and rancour againſt an Order of men, whoſe but ſineſs it is to promote Religion, that any one with half an Eye may ſee, that the Authors of thoſe abu<g ref="char:EOLhyphen"/>ſive Satyrs, ſtrike at Religion, whileſt they wound the credit and reputation of thoſe men who are chiefly imploy'd in its ſervice: for the readieſt way to bring a contempt upon that, is to vilifie thoſe who imme<g ref="char:EOLhyphen"/>diately attend upon it; and by more than ordinary
+<pb facs="tcp:99033:4"/>obligations, are engag'd to ſtand up in its vindication. Methinks if no other reſtraints cou'd bridle the petu<g ref="char:EOLhyphen"/>lancy of ſuch licentious writers, yet the indecency, and unmannerlyneſs of being rude and ſcurrilous, might have ſome effect upon men who pretend to good breeding; and that the ſuppoſed faults of a few, ſhou'd not provoke them to ſpit ſuch venom againſt the whole order, leſt others of as good ſenſe as them<g ref="char:EOLhyphen"/>ſelves, make uſe of their own weapon to wound them<g ref="char:EOLhyphen"/>ſelves with, and take the ſame method of arguing againſt them, that they do againſt others, thus, that, by the ſame way of reaſoning, a man might write Satyrs againſt all mankind, who, if they be not very Cyphers of the Creation, are liſted, and to be reck'ned into ſome profeſſion, rank, or denomination; in which it will not be difficult to find many irregularities, and offences: but if upon this account men of different degrees and ſtations, ſhou'd take the liberty to expoſe each others party, to be worried with ſlanders, and re<g ref="char:EOLhyphen"/>proaches, what ſtrife, diſorder, and confuſion muſt needs follow from ſuch inhuman, and irrational pro<g ref="char:EOLhyphen"/>ceedings? it wou'd be more eligible to ſpend our lives in a retired ſolitude, remote from all company, and to forego, all the advantages of human ſociety, rather than to be loaded with all the crimes, and reproaches, which perhaps one in ſome Hundreds may deſerve to be accus'd off, and with which he may without in<g ref="char:EOLhyphen"/>juſtice be upbraided. I ſhall cloſe my reflections upon this point, with the words of one of the beſt Poets,<note place="margin">M<hi rend="sup">r</hi> W.</note> this age has produc'd, which afford both matter of inſtruction, and reproof.</p>
+            <pb facs="tcp:99033:5"/>
+            <q>
+               <l>He that proportion'd wonders can diſcloſe,</l>
+               <l>At once his fancy and his Judgment ſhows,</l>
+               <l>Chaſt moral writing, we may learn from hence,</l>
+               <l>Neglect of which no Wit can recompence;</l>
+               <l>The fountain which from Helicon proceeds,</l>
+               <l>That ſacred ſtream, ſhou'd never water weeds,</l>
+               <l>Nor make the crop of thorns and thiſtles grow</l>
+               <l>Which Envy or perverted nature ſow.</l>
+            </q>
+            <p>'Tis needleſs to enlarge in the commendation of divine Poetry, eſpecially to thoſe who have any reve<g ref="char:EOLhyphen"/>rence for Religion; ſeeing that <hi>God</hi> has been pleas'd that ſo conſiderable a part of holy Scripture ſhou'd be indited in this way of writing; or to ſpend Time in ſetting forth its deſerved praiſe to thoſe, who have any reſpect or eſteem for Antiquity. In other caſes we have uſually a great veneration for it, and men pore upon the broken letters of an old, and ruſty inſcription, as if they had been written with the pen of an <hi>An<g ref="char:EOLhyphen"/>gel;</hi> whenas after much pains taken, perhaps they find, by the poorneſs of its fancy, and expreſſion, that 'tis ſome rude compoſure of an illiterate <hi>Monk;</hi> or a barbarous relique of the <hi>Goths</hi> and <hi>Vandals:</hi> how much more worthy of our ſtudy and regard, are thoſe divine Songs, recorded in the Scripture; which for Antiquity, exceed the moſt antient Monuments ex<g ref="char:EOLhyphen"/>tant; and in ſublimity of expreſſion, and profoundneſs of ſenſe, excell all human compoſitions, as do all the o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:99033:5"/>writings of their inſpired Authors. And thô the two Hymns I have at preſent undertook to para<g ref="char:EOLhyphen"/>phraſe, be no part of canonical Scripture, yet are they ſo full of divine ſenſe, and affectionate devotion, as to be thought worthy to deſerve a place in our pub<g ref="char:EOLhyphen"/>lick <hi>Liturgy.</hi> The firſt beyond queſtion being as antient as <hi>S<hi rend="sup">t</hi> Ambroſe;</hi> and a faithfull record of or<g ref="char:EOLhyphen"/>thodox Divinity, and ſincere Piety. The Church of <hi>Rome</hi> indeed, without ſufficient ground, admits the Song of the Three children into the Canon of holy Writ, and places it in the Third Chapter of <hi>Daniel;</hi> where it was not to be found, either in the Hebrew Text; or Tranſtation of the Seventy Interpreters, when <hi>S<hi rend="sup">t</hi> Hierom</hi> tranſlated the Bible into Latin: for he ſays himſelf in his Comments upon this ſong, that he turn'd it from the verſion of <hi>Theodotion,</hi> which he wou'd not have done, if it had been to be found in either of the foremention'd copies of Hebrew, or Greek; which at the ſame time, both ſhows that it is of good Antiquity, and alſo diſproves the pretences of the Roman party, of its being an authentick portion of canonical Scripture. But zeal and prejudice have ſo blinded the <g ref="char:V">Ʋ</g>nderſtandings of ſome, in other reſpects, Judicious men, that rather then they will forego their falſe, but preconceiv'd opinions, and notions, they run into groſs miſtakes, and commit intolerable blunders; and are ſo intent upon gaining their point, that they ſkip over all the little niceties of probabili<g ref="char:EOLhyphen"/>ty and proof. Otherwiſe how cou'd it happen, that ſo learned a Man as <hi>Morinus,</hi> in his Edition of the Septuagint at <hi>Paris,</hi> with <hi>Nobilius</hi> his Notes, ſhou'd
+<pb facs="tcp:99033:6"/>place this Song in the Third Chapter of <hi>Daniel,</hi> as part of the Seventy's tranſlation, without offering any reaſon, or making any Apology for his ſo doing: which he cou'd not but be convinc'd was a cheat put upon the world: except he imagin'd, that the vulgar Latin, which ſtands over againſt it, and is made the only authentick Text, by the Council of <hi>Trent,</hi> by the vertue of its uſurped authority, cou'd, as Chy<g ref="char:EOLhyphen"/>miſts are ſaid to tranſmute Metals, change the Greek of <hi>Theodotion</hi> into that of the Septuagint: for as hath been ſhow'd before, this Canticle was not in the Seventy's Tranſlation in <hi>S<hi rend="sup">t</hi> Hierom's</hi> time: for if it had he wou'd certainly have tranſlated his Latine from thence, it being of more authority than the Greek of <hi>Theodotion.</hi> A man may venture to gueſs at the reaſon, without fear of being reputed a conjurer, that induc'd the Council of <hi>Trent,</hi> to receive thoſe books into the <hi>Canon</hi> of holy Scripture, which we, accor<g ref="char:EOLhyphen"/>ding to the Judgment of the ancient council of <hi>Lao<g ref="char:EOLhyphen"/>dicea,</hi> and the ſenſe of the learnedeſt Fathers, in the beſt ages, account to be but <hi>Apocryphal:</hi> becauſe they being deſtitute of better proofs to maintain ſome do<g ref="char:EOLhyphen"/>ctrines, in which they diſſent from us, and the Ca<g ref="char:EOLhyphen"/>tholick church, fancy they find a colourable authority to ſupport them in theſe books; as for Inſtance, be<g ref="char:EOLhyphen"/>cauſe <hi>Ananias, Azarias,</hi> and <hi>Miſael</hi> are call'd upon in this Canticle, to praiſe God, therefore from thence they frame an argument for the Invocation and wor<g ref="char:EOLhyphen"/>ſhip of Saints: but it much betrays the badneſs of a cauſe, to endeavour to eſtabliſh it by ſuch infirm props, and invalid reaſons, which unlike to <hi>Rome</hi> of old
+<pb facs="tcp:99033:6"/>don't ruin themſelves by their own ſtrength, but by their own weakneſs: for by a parity of reaſon, they may as well bring an argument for the lawfulneſs of wor<g ref="char:EOLhyphen"/>ſhiping the Sun, Moon, and Stars, which are likewiſe call'd upon, and excited to praiſe <hi>God</hi> in this Song. I am ſenſible of having treſpaſs'd upon the candid Readers patience, by prefixing ſo large a prelude, to ſo ſlender a performance: but whilſt I was thinking to ſay ſowewhat to the purpoſe, one thing brought in another, and I cou'd not without ſome reluctancy, ſuppreſs the conceptions, and reſentments which offer'd themſelves to my meditation. I ſhall only beg the fa<g ref="char:EOLhyphen"/>vour of adding a few Lines more, concerning my preſent undertaking. In the firſt Hymn, I have en<g ref="char:EOLhyphen"/>deavour'd to keep cloſe to the ſenſe of it, and hope I have not omitted, or misinterpreted any thing ma<g ref="char:EOLhyphen"/>terial therein. Where the Song ſeems to begin afreſh, <hi>Thou art the King of Glory O Chriſt</hi>— I have inſerted Four lines to uſher it in; <hi>Thus whilſt on Earth, &amp;c.</hi> In the latter I have had reſpect to <hi>Ho<g ref="char:EOLhyphen"/>race</hi> his rule, to which all other rules muſt be ſubject, as to the moſt Eſſential, as <hi>Rapin</hi> well obſerves, viz. <hi>Reddere convenientia cuique,</hi>
+               <note place="margin">Hor. de Arte Poet.</note> by endeavouring to ob<g ref="char:EOLhyphen"/>ſerve a <hi>Decorum</hi> in bringing in every creature prai<g ref="char:EOLhyphen"/>ſing <hi>God,</hi> after that manner, which ſeems moſt a<g ref="char:EOLhyphen"/>greeable to its Nature, wherein if I have at any time fail'd, the defect was in my Judgement not in my will. I muſt confeſs the difficulty of expreſſing the ſame ſence, almoſt in every <hi>Stanza,</hi> with different Phraſes, and of concluding each with Three Rhimes, to which I at firſt tyed my ſelf, has forc'd me to
+<pb facs="tcp:99033:7"/>make uſe of ſome words, not altogether ſo fit, and proper, as I cou'd have choſen, if I had not been fetter'd with this threefold chain; but yet, I hope, I have not diſtorted the ſenſe of any word ſo far, or uſed any phraſe ſo uncouthly, but that a candid in<g ref="char:EOLhyphen"/>terpretation, and Poetical liberty may be fairly al<g ref="char:EOLhyphen"/>low'd to plead my excuſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:99033:7"/>
+            <head>A PARAPHRASE UPON <hi>The</hi> Te Deum, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>WE, with our Hearts, our tunefull voice will raiſe,</l>
+               <l>In gratefull Hymns, to great <hi>Jehovah's</hi> praiſe;</l>
+               <l>Nor will we any other Gods confeſs,</l>
+               <l>Who all than Him are Infinitely leſs.</l>
+               <l>Thee, mighty Father, all the world adore,</l>
+               <l>Invoke thy Bounty, and thy Help implore;</l>
+               <l>For Bounty can't exhauſt thy endleſs ſtore.</l>
+            </lg>
+            <lg>
+               <l>When Thou command'ſt, the Angels ſwiftly run,</l>
+               <l>And, in their flight, out-go the poſting Sun;</l>
+               <l>Whoſe ſplendid faces thô they brightly ſhine,</l>
+               <l>Yet are but darkneſs, when compar'd with Thine:</l>
+               <pb n="2" facs="tcp:99033:8"/>
+               <l>They, in continual ſongs, reſound thy Praiſe,</l>
+               <l>And make the Heavens eccho to their Lays.</l>
+            </lg>
+            <lg>
+               <l>Thee <hi>Cherubin,</hi> and <hi>Seraphin</hi> proclaim,</l>
+               <l>And, in ſuch ſtrains as theſe, dilate thy Name;</l>
+               <l>Thrice Holy <hi>Lord</hi> of <hi>Hoſts,</hi> what tongue can find</l>
+               <l>Clear language, to expreſs the labouring mind?</l>
+               <l>When it attempts, in fitting words, to tell,</l>
+               <l>The hidden wonders, that in <hi>Three-One</hi> dwell:</l>
+               <l>Thy Fame, Thô Heaven's ſo high, and earth's ſo low,</l>
+               <l>Does their too narrow limits overflow;</l>
+               <l>And thô there were a Thouſand Worlds in ſtore,</l>
+               <l>Thy ſpreading Glory ſtill wou'd ask for more.</l>
+            </lg>
+            <lg>
+               <l>Th' <hi>Apoſtles,</hi> by the World ſo rudely ſcorn'd;</l>
+               <l>Now with the brighteſt rays of light adorn'd,</l>
+               <l>And in ſublimeſt Bliſs, exalted High,</l>
+               <l>With praiſes fill the Circles of the Skie.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Prophets</hi> too, who taught thy Heavenly Law,</l>
+               <l>And things to come, in Dreams, and viſions ſaw;</l>
+               <pb n="3" facs="tcp:99033:8"/>
+               <l>With clearer eyes, view thy reſulgent face,</l>
+               <l>And all thy winding providences trace:</l>
+               <l>Then, in an extaſie of Joy, admire</l>
+               <l>And rend the Heavens in a chanting Quire.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Martyrs,</hi> who a Thouſand deaths withſtood,</l>
+               <l>And ſwam to Heav'n, in Seas of Purple Blood,</l>
+               <l>Now, with Triumphant Garlands crown'd, reherſe</l>
+               <l>Thy matchleſs praiſe, in never-dying verſe:</l>
+               <l>The fruitfull offspring of their blood they view,</l>
+               <l>And then again their Joyfull ſongs renew.</l>
+            </lg>
+            <lg>
+               <l>Thee, <hi>Holy Church</hi> throughout the World does own,</l>
+               <l>Th' Eternal Father, of th' Eternal Son,</l>
+               <l>He's truly ſo, not by Adoption Thine;</l>
+               <l>But with the ſame côeval rays does ſhine:</l>
+               <l>None others with him in this Glory ſhare;</l>
+               <l>Thy only, true, and Honourable Heir:</l>
+               <l>That worſhip which we Juſtly pay to Thee,</l>
+               <l>We offer Him, upon the bended knee,</l>
+               <l>Worſhip divine ſuppoſes Deity.</l>
+               <pb n="4" facs="tcp:99033:9"/>
+               <l>One undivided <hi>Eſſence</hi> ſtill remains;</l>
+               <l>Which Father, Son, and Holy Ghoſt contains:</l>
+               <l>To <hi>Him</hi> the Univerſal Church does ſing,</l>
+               <l>Who o're the Waters ſpread his brooding Wing,</l>
+               <l>When darkneſs overlaid the formleſs Deep,</l>
+               <l>And all things in Non-Entity did ſleep:</l>
+               <l>Before the Sun his Flaming courſe began;</l>
+               <l>Or paſſive Earth was faſhion'd into Man.</l>
+               <l>To <hi>Him</hi> all Hearts, which He inſpires, do bow;</l>
+               <l>Who from the Father, and the Son did flow,</l>
+               <l>In ſtreams, which from Eternity did run;</l>
+               <l>Like Floods of light, from th' Ocean of the Sun:</l>
+               <l>Thô He's the <hi>God</hi> of comfort, and of Love,</l>
+               <l>He does the wicked World for ſin reprove.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thus, whilſt on Earth, ſhe blows Her dying fire,</hi>
+               </l>
+               <l>
+                  <hi>'Till ſhe be mingled with the Heav'nly Quire,</hi>
+               </l>
+               <l>
+                  <hi>Does, with freſh Songs, th' immortal Theme purſue,</hi>
+               </l>
+               <l>
+                  <hi>And thus again Her fainting breath renew.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Enlarge the Gates of Praiſe; ſhut thoſe of Sin,</l>
+               <l>And let th' Eternal King of Glory in:</l>
+               <pb n="5" facs="tcp:99033:9"/>
+               <l>O <hi>Chriſt!</hi> who never didſt beginning own;</l>
+               <l>But ſat'ſt upon the Everlaſting Throne,</l>
+               <l>With God the Father, happy in that ſtate,</l>
+               <l>Before you did the ſpacious World create:</l>
+               <l>And when the nobleſt creature that was made,</l>
+               <l>By Sin, and Folly, had himſelf betray'd;</l>
+               <l>Thou, with compaſſion, view'd his coming Fate,</l>
+               <l>And didſt the rigour of his Doom rebate:</l>
+               <l>And when thou didſt th' endearing work begin,</l>
+               <l>To expiate the heinous guilt of Sin,</l>
+               <l>Thou thy tranſcendent Glory didſt entomb,</l>
+               <l>And ſhroud thy God-head, in the <hi>Virgins</hi> womb:</l>
+               <l>Thoſe radiant beams, that did ſurround thy Head,</l>
+               <l>Which would have ſtruck frail mortal Nature dead,</l>
+               <l>Were with a veil of darkſom Fleſh o'reſpread.</l>
+               <l>Nor did thy Love the tedious paths decline,</l>
+               <l>To which thou didſt thy patient Soul reſign:</l>
+               <l>A Thouſand terrors in thy breaſt did roul,</l>
+               <l>And ghaſtly ſights diſmay'd thy fainting Soul;</l>
+               <pb n="6" facs="tcp:99033:10"/>
+               <l>Such dreadfull Agonies thy body tore;</l>
+               <l>That clotted blood ſprang from each widened pore:</l>
+               <l>But Oh! what tongue can fully repreſent</l>
+               <l>The grief, when nails thy Hands, and Feet had rent?</l>
+               <l>A ſable darkneſs clad the mourning Skie,</l>
+               <l>And even Rocks relented at thy Cry;</l>
+               <l>They burſt in ſunder at that dolo'rous groan,</l>
+               <l>Which cou'd not pierce ſome harder hearts of ſtone:</l>
+               <l>Then for a time thy <hi>God-head</hi> did retire,</l>
+               <l>And left Thee in a painfull death t'expire.</l>
+            </lg>
+            <lg>
+               <l>Then all our Sins on thy ſtrong Shoulders lay;</l>
+               <l>But thou, like <hi>Sampſon,</hi> bore the Gates away:</l>
+               <l>And as a <hi>Victor,</hi> marching from the Plain,</l>
+               <l>Gover'd with mangled bodies of the ſlain;</l>
+               <l>With Laurel crown'd, laden with richeſt ſpoil,</l>
+               <l>Does then reward his Valiant Souldiers Toil:</l>
+               <l>So Thou, when death lay vanquiſh'd at thy Feet,</l>
+               <l>In Triumph, didſt thy faithfull ſervants meet,</l>
+               <l>And thus with ſmiles, and pleaſing language greet.</l>
+               <pb n="7" facs="tcp:99033:10"/>
+               <l>Your ſins no longer ſhall your Joys delay;</l>
+               <l>I've open'd now to Heav'n th' inviting way,</l>
+               <l>To you, who've died e're ſince the World began,</l>
+               <l>And unto ev'ry true believing man:</l>
+               <l>Enter the blisful ſeats of endleſs Joy,</l>
+               <l>Where neither pains, nor woe, nor fears annoy.</l>
+               <l>Thus having all thy weary ſtages gone,</l>
+               <l>Thou didſt aſcend up to thy Native Throne:</l>
+               <l>With Joys ſurrounded, and with glory crown'd,</l>
+               <l>With which the <hi>Father</hi> does not more abound.</l>
+            </lg>
+            <lg>
+               <l>But when the Day of Univerſal <hi>Doom,</hi>
+               </l>
+               <l>Bleſt to the good, but direful unto ſome,</l>
+               <l>Shall o're the Hills aſcend, with trembling ray,</l>
+               <l>And drive the leſs affrighting Night away;</l>
+               <l>Then with the brighteſt robes of Light array'd,</l>
+               <l>(The Sun to Thee will ſeem but like a ſhade)</l>
+               <l>Thou wilt deſcend: th' <hi>Ethereal</hi> Trump ſhall ſound,</l>
+               <l>Louder than Thunder; all the World around;</l>
+               <l>And from the dark receſſes of the grave,</l>
+               <l>And watry bowels, of the ſurging wave,</l>
+               <pb n="8" facs="tcp:99033:11"/>
+               <l>Shall ſummon all the Dead: the liſtning duſt</l>
+               <l>Of wicked men, as well as of the Juſt,</l>
+               <l>Shall hear, and to their fellow <hi>Atoms</hi> cry</l>
+               <l>Riſe up, to meet the Judge enthron'd on High:</l>
+               <l>Then thoſe, who never taſted bitter death,</l>
+               <l>Shall in a moment looſe their fleeting breath;</l>
+               <l>New ſhapes aſſume of Glory, or of ſhame,</l>
+               <l>And be conſign'd to Bliſs, or endleſs flame.</l>
+               <l>Myriads of Bleſſed ſpirits on Thee wait,</l>
+               <l>And, in a Pompous Train, attend thy State:</l>
+               <l>Shrill Clarions ſound, and waving Banners play,</l>
+               <l>Whileſt thro' the air they cut their eaſie way.</l>
+               <l>The roſie Sun, amidſt his haſty flight,</l>
+               <l>Suſpends his courſe, to view th' amazing ſight;</l>
+               <l>Affrighted then, ſhoots forth ſuch fiery beams;</l>
+               <l>That melted Mountains flow in pitchy ſtreams.</l>
+               <l>The ſpangled Heavens, and the Sphears above,</l>
+               <l>Aſtoniſht too, in dire confuſion move:</l>
+               <l>From crackling Orbs, the Stars come tumbling down,</l>
+               <l>And, in the hiſſing Sea, their Tapers drown.</l>
+               <pb n="9" facs="tcp:99033:11"/>
+               <l>The Frame of Nature does diſſolve, and dye,</l>
+               <l>New Hev'ns and Earth, the former's place ſupply.</l>
+               <l>
+                  <hi>Then holy Church with flagrant ardour burns,</hi>
+               </l>
+               <l>
+                  <hi>Her ſweeteſt praiſe, to zealour prayers ſhe turns:</hi>
+               </l>
+               <l>Aſſiſt with thy Almighty aid we pray,</l>
+               <l>And guide poor mortals in the rightfull way:</l>
+               <l>We of our ſelves, are helpleſs, weak, and blind,</l>
+               <l>Unthankful, proud, inconſtant as the wind.</l>
+               <l>O'recome with paſſions, and with Luſts oppreſt,</l>
+               <l>With Legions of infernal fiends poſſeſt:</l>
+               <l>Yet for ſuch wretches thou reſign'd thy breath,</l>
+               <l>And underwent a ſmart, inglorious death:</l>
+               <l>Thoſe ſtreams of blood, which from thy body ran,</l>
+               <l>Were ſhed to ſave, and reſcue ſinful Man:</l>
+               <l>That precious blood, which iſſu'd from thy ſide,</l>
+               <l>Wou'd have redeem'd a Thouſand Worlds beſide:</l>
+               <l>No finite tongue its value can repeat,</l>
+               <l>Whoſe worth, and price, was infinitely great.</l>
+            </lg>
+            <lg>
+               <l>This wondrous Love relieves our pining care:</l>
+               <l>Supports our minds, and baniſhes deſpair;</l>
+               <pb n="10" facs="tcp:99033:12"/>
+               <l>Inſpires with Hope, and drives away our Dread;</l>
+               <l>And makes us dare to raiſe our drooping Head;</l>
+               <l>And beg the greateſt <hi>Boon</hi> that can be giv'n,</l>
+               <l>The bleſt enjoyment of a glorious Heav'n:</l>
+               <l>Where with the <hi>Saints,</hi> we ſhall for ever ſing,</l>
+               <l>Sweet <hi>Halelujah's,</hi> to th' Eternal <hi>King.</hi>
+               </l>
+               <l>What Joys and raptures fill that blisfull place:</l>
+               <l>Where we ſhall view the <hi>God-head</hi> face to face.</l>
+               <l>Heav'n! the beſt object of our longing mind;</l>
+               <l>Where happy Souls, true, ſolid pleaſures find:</l>
+               <l>Secureſt Harbour, whither can we fly;</l>
+               <l>When ſtorms, and clouds obſcure our troubled Skie.</l>
+               <l>And that we may this calm, ſafe Port obtain;</l>
+               <l>Save us from Shipwrack, on the boiſtrous main;</l>
+               <l>From <hi>Pyrats</hi> guard us, and from <hi>Sirens</hi> keep,</l>
+               <l>Whilſt we are Sailing o're the dang'rous Deep.</l>
+            </lg>
+            <lg>
+               <l>Let not the Wolf, the Lyon, or the Fox,</l>
+               <l>Devour thy Church; or harm thy tender Flocks;</l>
+               <l>But with thy true, and faithfull <hi>Paſtors,</hi> feed</l>
+               <l>The Scatter'd remnants of thy choſen ſeed.</l>
+               <pb n="11" facs="tcp:99033:12"/>
+               <l>Defend them from their proud inſulting foes,</l>
+               <l>Whoſe rage ſtill more, and more imbitter'd grows:</l>
+               <l>Their ſinking minds, and feeble bodies bear</l>
+               <l>Above the reach of worldly hope; or fear:</l>
+               <l>And if thy wiſdom thinks it juſt and meer,</l>
+               <l>Let all their foes lye proſtrate at their feet.</l>
+               <l>(We're dayly mindfull of thy conſtant care,</l>
+               <l>And dayly offer up our thankful player:</l>
+               <l>In ſacred Hymns, w' extol thy glorious Name,</l>
+               <l>And in Thy Temple celebrate thy Fame.</l>
+            </lg>
+            <lg>
+               <l>And as thy <hi>Church</hi> for ever ſhall endure;</l>
+               <l>Under thy watchfull providence ſecure;</l>
+               <l>Nor blaſting envy; nor malicious rage,</l>
+               <l>With which ſo oft; unarm'd, ſhe does engage,</l>
+               <l>Shall ever her foundation overturn;</l>
+               <l>Tho' men, and Devils too, againſt it ſpurn:</l>
+               <l>So, whilſt ſhe ſojourns here, ſhe'l always bring</l>
+               <l>An humble Tribute to her Heav'nly <hi>King.</hi>
+               </l>
+               <l>Nor will ſhe ceaſe to praiſe, and worſhip <hi>Thee,</hi>
+               </l>
+               <l>When <hi>Time</hi> lies, buried in <hi>Eternity.</hi>
+               </l>
+               <pb n="12" facs="tcp:99033:13"/>
+               <l>Conſcious of guilt, and of our frailty too,</l>
+               <l>How prone we are our failings to renew,</l>
+               <l>We beg thy aid, and thy aſſiſting grace,</l>
+               <l>To keep our feet from ſtumbling in our Race.</l>
+               <l>And ſeeing Time ſo ſwiftly flies away,</l>
+               <l>And even to its ſelf becomes a prey,</l>
+               <l>'Tis Folly to neglect the preſent Day.</l>
+               <l>Teach us our Inſtant moments to improve,</l>
+               <l>In all the duties, both of fear, and Love;</l>
+               <l>For life's uncertain, and the Years to come,</l>
+               <l>May not be ſprung from Times unfathom'd womb,</l>
+               <l>E're we be rotting in a loathſom Tomb.</l>
+            </lg>
+            <lg>
+               <l>Our faults are many, and our ſins are great;</l>
+               <l>Therefore our calls for mercy we repeat:</l>
+               <l>Have mercy, <hi>Lord!</hi> for mercy ſtill we cry;</l>
+               <l>Let not thy Love our humble ſuit deny;</l>
+               <l>For who cou'd ſtand before thy Judgement ſeat,</l>
+               <l>If Mercy did not with thy Juſtice meet</l>
+               <l>We ſhou'd not boldly thus thy favour crave;</l>
+               <l>But that we know no other Gods can ſave:</l>
+               <pb n="13" facs="tcp:99033:13"/>
+               <l>We dare not to the beſt of <hi>Saints</hi> reſign,</l>
+               <l>That fear, and truſt, which are intirely Thine:</l>
+               <l>And as we place our confidence in <hi>Thee,</hi>
+               </l>
+               <l>So from confuſion ever keep us free,</l>
+               <l>From Worldly ſhame, and <hi>Satans</hi> Tyranny.</l>
+            </lg>
+            <div type="notes">
+               <head>NOTES.</head>
+               <p>PAG. the <hi>2.</hi> lin. <hi>1.</hi> I have uſed <hi>reſound</hi> in a tranſi<g ref="char:EOLhyphen"/>tive ſenſe, upon the authority of <hi>Virgil:</hi>
+               </p>
+               <p>
+                  <hi>Formoſam reſonare doces Amaryllida ſylvas.</hi> Eclog. <hi>1.</hi> lin. <hi>5.</hi> Pag. the <hi>8.</hi> lin. <hi>5, 6.</hi>
+               </p>
+               <q>
+                  <l>Then thoſe who never taſted bitter death,</l>
+                  <l>Shall in a moment looſe their ſleeting breath.</l>
+               </q>
+               <p>Here I allude to the Myſtery <hi>S<hi rend="sup">t</hi> Paul</hi> speaks off, in the <hi>15.</hi> Chap. of the <hi>1.</hi> Epiſt. <hi>Cor. 51. v.</hi> where he ſays <hi>we ſhall not all ſleep, but we ſhall all be changed;</hi> which I conceive is not ſo to be underſtood, as that thoſe who ſhall be found alive at the day of Judgement, ſhall wholly eſcape the ſentence denounc'd againſt Sin, <hi>viz. Death,</hi>
+                  <note place="margin">Rom. 5.12.</note> 
+                  <hi>which is to paſs upon all, ſeeing that all have ſinned:</hi> but that they ſhall all dye ſuddenly, either through fear; or ſome other preternatural cauſe, and under go a ſeparation of their ſouls from their bodies; but they being quickly to be reunited again, and their bodies neither laid in the grave, or turn'd to duſt, the perſons ſo dying may be ſaid not to ſleep, thô they were really dead, be<g ref="char:EOLhyphen"/>cauſe they were not laid in the grave; for to ſleep with their Fathers, or to be buried with their Fathers, are ſynony<g ref="char:EOLhyphen"/>mous terms in holy Scripture. So that this ſeems to be the A<g ref="char:EOLhyphen"/>poſtle's meaning: we ſhall not all dye, ſo us to be buried in our graves, there to lye 'till we be rotten, but ſome imme<g ref="char:EOLhyphen"/>diately, or ſoon after the diſſolution of their ſoul and body.
+<pb n="14" facs="tcp:99033:14"/>will have them reunited again, and ſo appear in Judgement: <hi>for it is appointed unto all men once to dye,</hi>
+                  <note place="margin">Heb. 9.27.</note> 
+                  <hi>and after that the Judgement<g ref="char:punc">▪</g>
+                  </hi> But then wherein conſiſts the Myſtery men<g ref="char:EOLhyphen"/>tion'd by the Apoſtle? herein, as I ſuppoſe, that from the in<g ref="char:EOLhyphen"/>ſtance of thoſe who ſhall be found alive at the day of Judgment, the <hi>Corinthians</hi> ſhou'd not take any occaſion, either to disbe<g ref="char:EOLhyphen"/>lieve, or make any objection againſt the reſurrection of the body: for <hi>S<hi rend="sup">t</hi> Paul</hi> having before diſcourſ'd only concerning the reſurrection of thoſe bodies, which were turn'd into duſt, he does in the verſe before quoted, as well farther inſtruct the <hi>Corinthians</hi> in this matter, as preoccupy an objection which they might make againſt his preceding doctrin, which we may ſuppoſe to be fram'd after this manner: You have, in your foregoing diſcourſe, treated concerning the body's being rais'd from duſt, and have illuſtrated your doctrin from ſeed ſown in the ground,<note place="margin">V. 36.</note> 
+                  <hi>which is not quickned except it dye. i.e.</hi> unleſs it be buried and diſſolv'd in the Earth: and after the ſame manner,<note place="margin">V. 42.</note> you ſay, is the reſurrection of the dead, <hi>it is ſown in Corruption, it is raiſed in incorruption;</hi> and if ſo, them what will become of thoſe who ſhall be found alive, at the day of Judgement, whoſe bodies will not lye in the grave to be corrupted, and turn'd to duſt, Shall not they therefore riſe again? Yes they ſhall; and this is a Myſtery I tell you, thô they ſhall not ſleep i. e. be lodged in the grave 'till they be turn'd to duſt, as thoſe have been who died before them; yet they ſhall both dye, and be raiſ'd up again, and their corruptible bodies ſhall be chang'd into incorruptible. From which Interpretation of the Text,<note place="margin">P. 579.</note> 
+                  <hi>Oecumenius,</hi> upon the place, does not diſagree, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> As to what is ſaid, we ſhall not all ſleep, but we ſhall all be changed, it ought to be underſtood in this ſenſe, that we ſhall not ſleep ſo long a ſleep, that we ſhall either lye in the grave, or be turn'd to corruption; but thoſe who ſhall be found ſhall undergo a ſhort death, who cannot enjoy any long ſleep, by reaſon of the ſudden reſurrection that will follow, but all ſhall be changed, that is, all ſhall put on incorruption.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="15" facs="tcp:99033:14"/>
+            <head>A PARAPHRASE Upon the Canticle <hi>Benedicite omnia opera,</hi> &amp;c.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>O Earth ariſe! ye Heavens downward bend,</l>
+               <l>And to your great <hi>Creators</hi> praiſe attend:</l>
+               <l>Th' inſpiring Theme will flowing Numbers lend.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Let all the Works which <hi>Gods</hi> commanding word,</l>
+               <l>From Nothing, into Being brought, afford</l>
+               <l>Immortal praiſes to th' Eternal <hi>Lord.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Ye Angels that in wondrous ſtrength excell,</l>
+               <l>Praiſe the moſt <hi>High,</hi> becauſe you never fell,</l>
+               <l>And on that copious Theme for ever dwell.</l>
+            </lg>
+            <pb n="16" facs="tcp:99033:15"/>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Ye Spheres whoſe high and vaſt expanded Face,</l>
+               <l>Can't limit Him, who knows no Time nor Place;</l>
+               <l>Extend Gods praiſe beyond your bounded Space.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>You who ſo nimbly climb, and ſwiftly fly,</l>
+               <l>And in perpetual rolls dance round the Skie;</l>
+               <l>Your motions Tune to gratefull Harmony.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Ye Waters which th' <hi>Almighty</hi> does prepare,</l>
+               <l>Above the ſpacious Regions of the Air,</l>
+               <l>In murmuring ſounds His dreadful Name declare.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Ye Natu'ral Pow'rs, whoſe dark myſterious Laws,</l>
+               <l>Confound the ſearchers into ev'ry Cauſe,</l>
+               <l>'Advance His Pow'r whence <hi>Nature</hi> vertue draws.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Bright Sun, when thou arifeſt from thy bed,</l>
+               <l>And on the World, thy pow'rfull beams doeſt ſhed,</l>
+               <l>God's praiſe, with Heat, and Light, together ſpread.</l>
+            </lg>
+            <pb n="17" facs="tcp:99033:15"/>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Thou and the Moon, w<hi rend="sup">ch</hi> guide the Day and Night,</l>
+               <l>Send back your Rays up to the ſource of Light,</l>
+               <l>And raiſe <hi>God's</hi> Glory bove your dazling Height.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Ye Stars, whoſe faint and languid beams beſtow</l>
+               <l>A weaker Influence, on Things below,</l>
+               <l>Unite your force, and <hi>God's</hi> Juſt Praiſes ſhow.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Let fruitfull ſhow'rs, which cool the gaping Ground,</l>
+               <l>And make the Earth with Corn and Wine abound,</l>
+               <l>God's praiſes o're the Hills and Vales reſound.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Ye Dews which on the Herbs freſh verdure bring,</l>
+               <l>Fly back in vapours to your Heav'nly ſpring,</l>
+               <l>And carry Praiſes on your balmy wing.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>Ye boiſtrous Winds, which rend the trembling Skie,</l>
+               <l>Where e'er your never-flagging Wings ſhall fly,</l>
+               <l>Diſperſe your <hi>Sov'reigns</hi> Praiſes far and nigh.</l>
+            </lg>
+            <pb n="18" facs="tcp:99033:16"/>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Let breezing Gales, which Fan the buxom Air,</l>
+               <l>And o're the Seas the floating Caſtles bear,</l>
+               <l>Perfume their gentle breath with thankful Prayer.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>Enlivening Heat, and All-conſuming Fire,</l>
+               <l>From human uſe, to ſacred <hi>Rites</hi> retire,</l>
+               <l>And unto <hi>Heav'n</hi> in flaming Praiſe aſpire.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>Ye diff'rent Seaſons of the changing year,</l>
+               <l>Summer and Winter, let your Praiſe appear,</l>
+               <l>Through ev'ry cloudy Day, in ev'ry clear.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Let blooming <hi>Spring,</hi> and fruitfull <hi>Autumn</hi> try,</l>
+               <l>In richeſt praiſe, each other to outvie,</l>
+               <l>And never ceaſe 'till aged <hi>Time</hi> ſhall die.</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>Let all the <hi>Meteors</hi> hauging in the Air,</l>
+               <l>The hony Dews, and Froſts with ſilver Hair,</l>
+               <l>Pure, virgin Praiſes unto God prepare.</l>
+            </lg>
+            <pb n="19" facs="tcp:99033:16"/>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Let lambent Flames, which round our Temples play<g ref="char:punc">▪</g>
+               </l>
+               <l>And wandring Fires, which lead us from our way,</l>
+               <l>
+                  <hi>God's</hi> praiſe adorn in ev'ry ſhining Ray.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Ye gaudy colours of the Showrie Bow,</l>
+               <l>Which from reflection, and refraction flow,</l>
+               <l>Let ſtreaming Praiſe ſurround your painted Brow.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>Ye Froſt and Cold, whoſe rigorous force delays</l>
+               <l>The pleaſing Comforts of the warmer Days,</l>
+               <l>Bend all your rigour to th' <hi>Almighty's</hi> Praiſe.</l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>Let Snow, which clothes the naked Earth in white,</l>
+               <l>And Ice, which ſtops the liquid water's flight,</l>
+               <l>Diſſolve in Praiſes to the God of might.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>Wake ſluggiſh Nights, ſing Days with cheerfull joy;</l>
+               <l>Your precious Hours to Gods great praiſe imploy,</l>
+               <l>'Till He ſhall your alternate Courſe deſtroy.</l>
+            </lg>
+            <pb n="20" facs="tcp:99033:17"/>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>Let Light, the offspring of the glorious Sun,</l>
+               <l>Whoſe flight's ſo ſwift 'tis finiſh't when begun,</l>
+               <l>As ſwiftly toward God in Praiſes run.</l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>Let Darkneſs too, which fills the World with Dread,</l>
+               <l>And o're the Earth does quiet ſilence ſpread,</l>
+               <l>In awful Praiſes hide its gloomy Head.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>Ye Lightnings which th' affrighted world amaze,</l>
+               <l>And dart quick death from your ſharp-pointed rays,</l>
+               <l>In vocal Flaſhes ſpeak the Thund'rer's praiſe.</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>Ye Clouds, which from the Earth in vapours riſe,</l>
+               <l>And intercept the Influence of the Skies,</l>
+               <l>Let praiſes trickle from your weeping eyes.</l>
+            </lg>
+            <lg n="28">
+               <head>XXVIII.</head>
+               <l>Let <hi>Mother Earth</hi> which Herbs and Fruits does be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</l>
+               <l>And with a Thouſand Joys relieves our care,</l>
+               <l>A ſolemn, grateful Feaſt to <hi>God</hi> prepare.</l>
+            </lg>
+            <pb n="21" facs="tcp:99033:17"/>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>Ye lofty Mountains of the greateſt Fame,</l>
+               <l>O're your aſpiring Heads exalt his Name,</l>
+               <l>Then Eccho't to the Valleys down again.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>Ye litle Hills, with fruitfull vineyards Crown'd;</l>
+               <l>For healing Plants, and flowing ſprings renown'd,</l>
+               <l>Let Praiſes from your ſhaggie Tops rebound.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>Ye verdant Paſtures, and ye flow'ry Plains,</l>
+               <l>Which glad the careful hearts of labouring Swains,</l>
+               <l>Praiſe the <hi>Almighty</hi> in your <hi>Runal</hi> ſtrains.</l>
+            </lg>
+            <lg n="32">
+               <head>XXXII.</head>
+               <l>Let Cedars, Cypreſs, and the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery</hi> Pine</l>
+               <l>The budding Roſe, the Olive and the Vine,</l>
+               <l>Flouriſh in Praiſes to the <hi>King Divine.</hi>
+               </l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>Ye ſprings, that do the Tops of Mountains creep,</l>
+               <l>In hollow caverns, from the briny Deep,</l>
+               <l>Soft, lulling Notes to <hi>God's</hi> great Glory weep.</l>
+            </lg>
+            <pb n="22" facs="tcp:99033:18"/>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>Some for unuſual Ebbs, and Flows renown'd,</l>
+               <l>Others that borrow vertue from the Ground,</l>
+               <l>Let all your Glory to the <hi>Lord</hi> redound.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>Ye curling Seas, that beat the crooked Shoar,</l>
+               <l>With foaming Mouths, your thanks to <hi>Him</hi> reſtore,</l>
+               <l>Who curbs your waves, &amp; calms you when you roar.</l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>Ye grateful Floods, which travel to the Main,</l>
+               <l>And pay your <hi>Homage,</hi> in a watry Train,</l>
+               <l>Return with humble Praiſes back again.</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>Ye Whales, and Tenants of the wat'ry Coaſts,</l>
+               <l>Thô dumb and ſilent, praiſe the Lord of <hi>Hoſts,</hi>
+               </l>
+               <l>In ſigns, more grateful then the loudeſt Boaſts.</l>
+            </lg>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>Ye winged People of the <hi>azure</hi> Skie,</l>
+               <l>Where e're you can your well-fledg'd Pinions try,</l>
+               <l>In Artleſs Notes, declare that God is High.</l>
+            </lg>
+            <pb n="23" facs="tcp:99033:18"/>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>Ye ſavage Beaſts, which o're the Deſarts ſtray,</l>
+               <l>When in your Paws, you've ſeiz'd your panting Prey,</l>
+               <l>With Howls, and horrid Yells, your Thanks repay.</l>
+            </lg>
+            <lg n="40">
+               <head>XL.</head>
+               <l>Ye creeping Inſects, that with tardie pace,</l>
+               <l>Advance your Snakie foulds, from place to place,</l>
+               <l>In all your winding turns, <hi>God's</hi> Glory trace.</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>Ye fleecy Flocks, upon a Thouſand Hills,</l>
+               <l>Whoſe hungry mouths the great <hi>Creater</hi> fills,</l>
+               <l>Bleat praiſe to <hi>Him,</hi> from whom your Food diſtills.</l>
+            </lg>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>Your Shepherd never does his Temples ſteep,</l>
+               <l>In clammy Dews, of ſoft, refreſhing fleep;</l>
+               <l>But with a watchful eye, your Folds does keep.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>Let other Beaſts, that in fat paſtures feed,</l>
+               <l>The Lowing Oxe, the Gow, land neighing Steed,</l>
+               <l>Proclaim His Bounty, who ſupplies their <hi>Need.</hi>
+               </l>
+            </lg>
+            <pb n="24" facs="tcp:99033:19"/>
+            <lg n="44">
+               <head>XLIV</head>
+               <l>Ye ſons of Men, whom reaſon ought to ſway,</l>
+               <l>Thô Lords of all below, no pride betray</l>
+               <l>But Homage to the Worlds ſole <hi>Monarch</hi> pay.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>You, who're endu'd with an Immortal mind,</l>
+               <l>Whom <hi>Angels</hi> leave not very far behind,</l>
+               <l>In praiſes be as conſtant, and refin'd.</l>
+            </lg>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>Let <hi>Iſr'el, God's</hi> peculiar people, tread</l>
+               <l>His Courts with praiſe, who them from <hi>Egypt</hi> led,</l>
+               <l>And in the Wilderneſs, with <hi>Manna</hi> fed.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>Remember how you went o're ruddie ſand;</l>
+               <l>Whileſt wondring waves, like walls of glaſs, did ſtand,</l>
+               <l>'Till you were ſafely guarded to the Land.</l>
+            </lg>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>Then did the willing ſtreams together meet,</l>
+               <l>And with a humid kiſs each other great,</l>
+               <l>And waſh the drown'd Egyptians floating feet.</l>
+            </lg>
+            <pb n="25" facs="tcp:99033:19"/>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>Let holy <hi>Prieſts</hi> with frag<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Incenſe come,</l>
+               <l>And load God's Altars with the choiceſt Gum,</l>
+               <l>Then with ſweet praiſe their ſacrifice perfume.</l>
+            </lg>
+            <lg n="49">
+               <head>L.</head>
+               <l>Ye <hi>Levites,</hi> your devoted Hearts inflame</l>
+               <l>With praiſes, due to <hi>Gods</hi> tremendous Name,</l>
+               <l>And in Melodious <hi>Quires</hi> his Deeds proclaim.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>Ye ſervants of the <hi>Lord,</hi> whoſe faithful eye,</l>
+               <l>Can Heav'nly Things, thr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Earthy Types def<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y,</l>
+               <l>Contemn this World, in Praiſe aſcend on High.</l>
+            </lg>
+            <lg n="52">
+               <head>LII.</head>
+               <l>Ye Souls, who from the Earth have took your flight<g ref="char:punc">▪</g>
+               </l>
+               <l>Releas'd from clay, and cloth'd in Robes of White,</l>
+               <l>Let praiſes be your Joy, and chief delight.</l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>Ye holy Men, who tread th' unbeaten way,</l>
+               <l>Which leads to Regions of Eternal Day,</l>
+               <l>Praiſe <hi>God</hi> becauſe you do not goe aſtray.</l>
+            </lg>
+            <pb n="26" facs="tcp:99033:20"/>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>Ye humble Hearts, whoſe only pride and Skill<g ref="char:punc">▪</g>
+               </l>
+               <l>Is to purſue what's good, and fly from Ill,</l>
+               <l>To praiſe the <hi>Lord</hi> is to obſerve his Will.</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>O <hi>Shadruch, Meſhach,</hi> and <hi>Abednego,</hi>
+               </l>
+               <l>Whom cruel Men into the Flames did throw,</l>
+               <l>Flames leſs revengefull than your raging Foe;</l>
+            </lg>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>You, who by Miracle, eſcap'd that Fire,</l>
+               <l>Mount up to Heav'n, in Flames of hot deſire,</l>
+               <l>And bleſſing live, and praiſing God expire.</l>
+            </lg>
+            <div type="note">
+               <head>NOTE.</head>
+               <p>PAG. 15. Stanza <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. It may be asked why the Angels are call'd upon and exerted to praiſe <hi>God,</hi> ſeei<g ref="char:cmbAbbrStroke">̄</g>ng it as their conſtant imployment in Heaven to ſing Hallelujahs unto him. To which it may be anſwered, that their being excited to praiſe God, is as much by way of congratulation as exhortation, according to that ſaying of <hi>Ovid,</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>Qui monet ut facias, quod jam facis, ipſe monendo</l>
+                     <l>Lafudat, &amp; hortatu comprobat acta ſuo.</l>
+                  </lg>
+                  <lg>
+                     <l>He that adviſes; what thou doeſt, to doe,</l>
+                     <l>At once exhorts Thee, and commends thee too.</l>
+                  </lg>
+               </q>
+               <pb facs="tcp:99033:20"/>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
